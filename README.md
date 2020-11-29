@@ -1,14 +1,3 @@
-## Skill Set
-- C/C++(STL)
-- Java(Android, Spring)
-- Javascript/Jquery/React.js
-- Python/Shell Script
-- Python
-- Ansible
-- Go
-
-## History
-
 ### ~2019
 - 한양대학교 컴퓨터전공 졸업 (2012.03~2019.02)
   - C 80%, Python 20%
@@ -28,7 +17,18 @@
 ### Kakao (2019~)
 - 2019 신입공채 온보딩 (2019.01~2019.02)
   - Java (Spring 30%, Android 70%)
-- 검색서비스플랫폼셀 (2019.03~)
-  - React.js 60%, Ansible 15%, Python/Shell Script 10%, Go 5%, Java 5%, Python 5%
+- 검색서비스플랫폼셀 (2019.03~2019.10)
+  - React.js(+enzymejs) 60%, Ansible 15%, Python/Shell Script 10%, Go 5%, Java 5%, Python 5%
   - 검색시스템 마이크로서비스 운영/배포 자동화 플랫폼 개발
   - 검색 서비스 운영
+
+#### Kakao FE플랫폼팀 컨텐츠FE파트(2019.10~)
+- 카카오스토리 pc/mo웹 담당(2019.10~)
+  - backbone.js, handlebars.js, nginx
+- project N(2020.01~ 2020.06)
+  - next.js, typescript, react context, swr, styled-jsx
+  - storybook, mdx, cypress
+  - docker/k8s, node.js
+- project C(2020.07~)
+  - next.js, typescript, redux, redux-saga
+  - docker/k8s, node.js
