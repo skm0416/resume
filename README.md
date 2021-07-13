@@ -14,7 +14,7 @@
   - 심화반 수료, Professional 등급 취득
 - Code : https://github.com/skm0416/Works-From-2017
 
-### Kakao (2019~)
+### Kakao (2019.01~2021.06)
 - 2019 신입공채 온보딩 (2019.01~2019.02)
   - Java (Spring 30%, Android 70%)
 - 검색서비스플랫폼셀 (2019.03~2019.10)
