@@ -22,7 +22,7 @@
   - 검색시스템 마이크로서비스 운영/배포 자동화 플랫폼 개발
   - 검색 서비스 운영
 
-#### Kakao FE플랫폼팀 컨텐츠FE파트(2019.10~)
+#### Kakao FE플랫폼팀 컨텐츠FE파트(2019.10~2021.06)
 - 카카오스토리 pc/mo웹 담당(2019.10~2021.03)
   - backbone.js, handlebars.js, nginx
 - 카카오스토리 기술셋 리팩토링(2020.01~2020.06)
@@ -30,7 +30,7 @@
   - storybook, mdx, cypress
   - docker/k8s, node.js
   - 중단됨
-- 카카오페이 구매(2020.07~)
+- 카카오페이 구매(2020.07~2021.06)
   - https://pay.kakao.com/
   - https://seller.pay.kakao.com/
   - next.js, typescript, redux, redux-saga
