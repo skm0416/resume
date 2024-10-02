@@ -35,3 +35,8 @@
   - https://seller.pay.kakao.com/
   - next.js, typescript, redux, redux-saga
   - docker/k8s, node.js
+
+### Cloa (2021.09 ~ 2022.10)
+ - 데이터분석 플랫폼 개발
+   - React 프로토타입 개발
+   - Svelte 정식버전 개발
